@@ -1,0 +1,10 @@
+config load "C:\Users\Michal\Desktop\bpElectronicTarget\target_unit_piezo\target_unit_piezo.ioc"
+project toolchain STM32CubeIDE
+
+SetStructure Advanced
+
+project setCustomFWPath "C:\Users\Michal\STM32Cube\Repository\STM32Cube_FW_F4_V1.26.2"
+
+project generate 
+
+exit wait

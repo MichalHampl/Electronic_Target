@@ -1,0 +1,2 @@
+../Core/Src/codegen/envelope_xcorr_gen.c:35:15:rt_powd_snf	64	static
+../Core/Src/codegen/envelope_xcorr_gen.c:90:7:envelope_xcorr_gen	272	static

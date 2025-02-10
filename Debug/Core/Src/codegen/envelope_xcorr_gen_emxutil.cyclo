@@ -1,0 +1,12 @@
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:24:6:emxEnsureCapacity_boolean_T	9
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:66:6:emxEnsureCapacity_creal32_T	9
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:109:6:emxEnsureCapacity_int32_T	9
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:151:6:emxEnsureCapacity_real32_T	9
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:192:6:emxFree_boolean_T	4
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:208:6:emxFree_creal32_T	4
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:225:6:emxFree_int32_T	4
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:241:6:emxFree_real32_T	4
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:257:6:emxInit_boolean_T	2
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:277:6:emxInit_creal32_T	1
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:295:6:emxInit_int32_T	2
+../Core/Src/codegen/envelope_xcorr_gen_emxutil.c:316:6:emxInit_real32_T	2

@@ -1,0 +1,2 @@
+../Core/Src/codegen/envelope.c:30:14:rt_hypotf_snf	32	static
+../Core/Src/codegen/envelope.c:56:6:envelope	120	static

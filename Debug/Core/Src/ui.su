@@ -1,0 +1,4 @@
+../Core/Src/ui.c:8:6:Draw_targetElement	48	static
+../Core/Src/ui.c:24:6:Draw_def_targetElement	56	static
+../Core/Src/ui.c:39:6:Draw_hit	40	static
+../Core/Src/ui.c:47:6:Draw_resultTable	64	static
